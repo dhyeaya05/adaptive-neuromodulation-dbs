@@ -1,10 +1,16 @@
 # 🧠 Adaptive Neuromodulation System for Parkinson's Disease
 
-(https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
-(https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-(https://img.shields.io/badge/TVB-2.x-green.svg)](https://www.thevirtualbrain.org/)
-(https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-(https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+<div align="center">
+
+[![Python](https://img.shields.io/badge/python-3.12-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+![Stars](https://img.shields.io/github/stars/dhyeaya05/adaptive-neuromodulation-dbs?style=social)
+![Forks](https://img.shields.io/github/forks/dhyeaya05/adaptive-neuromodulation-dbs?style=social)
+
+</div>
 
 > **Closed-Loop Brain-Computer Interface for Next-Generation Deep Brain Stimulation**
 
